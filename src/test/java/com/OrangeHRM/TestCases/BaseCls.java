@@ -70,5 +70,6 @@ public class BaseCls {
 	public void aftSuite() {
 		System.out.println("This is after suite");
 		extentreport.endExtent();
+		//I am the comment from GitHub
 	}
 }
