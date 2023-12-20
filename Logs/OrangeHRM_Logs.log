@@ -1,0 +1,377 @@
+2023-12-14 19:58:16,898 [main] [INFO ] rootLogger:30:CommandsCls.java - Entering :Adminin  By.name: username
+2023-12-14 19:58:19,015 [main] [INFO ] rootLogger:30:CommandsCls.java - Entering :admin123in  By.name: password
+2023-12-14 19:58:54,247 [main] [INFO ] rootLogger:30:CommandsCls.java - Entering :SateeshMin  By.xpath: //label[text()='Username']/../following-sibling::div//input
+2023-12-14 19:58:56,342 [main] [INFO ] rootLogger:30:CommandsCls.java - Entering :abc@123in  By.xpath: (//input[@type='password'])[1]
+2023-12-14 19:58:58,437 [main] [INFO ] rootLogger:30:CommandsCls.java - Entering :abc@123in  By.xpath: (//input[@type='password'])[2]
+2023-12-14 20:04:50,569 [main] [INFO ] rootLogger:31:CommandsCls.java - Entering : Adminin  By.name: username
+2023-12-14 20:04:52,656 [main] [INFO ] rootLogger:31:CommandsCls.java - Entering : admin123in  By.name: password
+2023-12-14 20:04:55,712 [main] [INFO ] rootLogger:24:CommandsCls.java - Click on :  By.xpath: //button[@type='submit']
+2023-12-14 20:05:04,952 [main] [INFO ] rootLogger:24:CommandsCls.java - Click on :  By.xpath: //span[text()='Admin']/..
+2023-12-14 20:05:13,712 [main] [INFO ] rootLogger:24:CommandsCls.java - Click on :  By.xpath: //button[text()=' Add ']
+2023-12-14 20:05:18,777 [main] [INFO ] rootLogger:24:CommandsCls.java - Click on :  By.xpath: (//label[text()='User Role']/../..//div)[2]//div[text()='-- Select --']
+2023-12-14 20:05:23,850 [main] [INFO ] rootLogger:24:CommandsCls.java - Click on :  By.xpath: //*[text()='ESS']
+2023-12-14 20:05:27,944 [main] [INFO ] rootLogger:31:CommandsCls.java - Entering : SateeshMin  By.xpath: //label[text()='Username']/../following-sibling::div//input
+2023-12-14 20:05:30,014 [main] [INFO ] rootLogger:31:CommandsCls.java - Entering : abc@123in  By.xpath: (//input[@type='password'])[1]
+2023-12-14 20:05:32,087 [main] [INFO ] rootLogger:31:CommandsCls.java - Entering : abc@123in  By.xpath: (//input[@type='password'])[2]
+2023-12-14 20:05:47,690 [main] [INFO ] rootLogger:31:CommandsCls.java - Entering : Adminin  By.name: username
+2023-12-14 20:05:49,770 [main] [INFO ] rootLogger:31:CommandsCls.java - Entering : admin123in  By.name: password
+2023-12-14 20:05:52,832 [main] [INFO ] rootLogger:24:CommandsCls.java - Click on :  By.xpath: //button[@type='submit']
+2023-12-14 20:06:01,879 [main] [INFO ] rootLogger:24:CommandsCls.java - Click on :  By.xpath: //span[text()='Admin']/..
+2023-12-14 20:06:10,667 [main] [INFO ] rootLogger:24:CommandsCls.java - Click on :  By.xpath: //button[text()=' Add ']
+2023-12-14 20:06:15,727 [main] [INFO ] rootLogger:24:CommandsCls.java - Click on :  By.xpath: (//label[text()='User Role']/../..//div)[2]//div[text()='-- Select --']
+2023-12-14 20:06:20,796 [main] [INFO ] rootLogger:24:CommandsCls.java - Click on :  By.xpath: //*[text()='ESS']
+2023-12-14 20:06:24,885 [main] [INFO ] rootLogger:31:CommandsCls.java - Entering : SateeshMin  By.xpath: //label[text()='Username']/../following-sibling::div//input
+2023-12-14 20:06:26,961 [main] [INFO ] rootLogger:31:CommandsCls.java - Entering : abc@123in  By.xpath: (//input[@type='password'])[1]
+2023-12-14 20:06:29,039 [main] [INFO ] rootLogger:31:CommandsCls.java - Entering : abc@123in  By.xpath: (//input[@type='password'])[2]
+2023-12-15 10:27:21,500 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-15 10:27:23,583 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-15 10:27:26,662 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-15 10:27:35,490 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //span[text()='Admin']/..
+2023-12-15 10:27:44,227 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[text()=' Add ']
+2023-12-15 10:27:49,333 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: (//label[text()='User Role']/../..//div)[2]//div[text()='-- Select --']
+2023-12-15 10:27:54,399 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //*[text()='ESS']
+2023-12-15 10:27:58,523 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  SateeshM in : By.xpath: //label[text()='Username']/../following-sibling::div//input
+2023-12-15 10:28:00,590 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  abc@123 in : By.xpath: (//input[@type='password'])[1]
+2023-12-15 10:28:02,665 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  abc@123 in : By.xpath: (//input[@type='password'])[2]
+2023-12-15 19:59:52,340 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-15 19:59:54,434 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-15 19:59:57,508 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-15 20:00:05,536 [main] [ERROR] rootLogger:24:CommandsCls.java - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.72)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f1b1a85b946f2c3cdccbf88bf8624939, findElement {using=xpath, value=//span[text()='Admin']/..}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57168}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57168/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f1b1a85b946f2c3cdccbf88bf8624939
+2023-12-15 20:01:56,124 [main] [ERROR] rootLogger:38:CommandsCls.java - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.72)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [634b3c2a772d61e9ebb6569a0e989923, findElement {using=name, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57389}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57389/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 634b3c2a772d61e9ebb6569a0e989923
+2023-12-15 20:08:17,158 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-15 20:08:19,240 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-15 20:08:22,296 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-15 20:08:23,723 [main] [INFO ] rootLogger:48:CommandsCls.java - Actual Title is: OrangeHRM
+2023-12-15 20:08:23,725 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-15 20:08:50,392 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-15 20:08:52,482 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-15 20:08:55,517 [main] [ERROR] rootLogger:24:CommandsCls.java - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.72)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [905a73ce343ee6550eae956a8b171f55, findElement {using=xpath, value=//button[@type='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57511}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57511/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 905a73ce343ee6550eae956a8b171f55
+2023-12-15 20:13:59,858 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-15 20:14:01,949 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-15 20:14:05,014 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-15 20:14:06,917 [main] [INFO ] rootLogger:48:CommandsCls.java - Actual Title is: OrangeHRM
+2023-12-15 20:14:06,919 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-15 20:14:22,096 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-15 20:14:24,169 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-15 20:14:27,243 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-15 20:14:35,282 [main] [ERROR] rootLogger:24:CommandsCls.java - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.72)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [78a0f682accdcd123031aacacb259140, findElement {using=xpath, value=//span[text()='Admin']/..}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57584}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57584/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 78a0f682accdcd123031aacacb259140
+2023-12-15 20:17:35,517 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-15 20:17:37,601 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-15 20:17:40,669 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-15 20:17:42,078 [main] [INFO ] rootLogger:48:CommandsCls.java - Actual Title is: OrangeHRM
+2023-12-15 20:17:42,081 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-15 20:18:04,501 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-15 20:18:06,594 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-15 20:18:09,664 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-15 20:18:17,691 [main] [ERROR] rootLogger:24:CommandsCls.java - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.72)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c409b1a8da57d462ef5119caee8f55dd, findElement {using=xpath, value=//span[text()='Admin']/..}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57647}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57647/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c409b1a8da57d462ef5119caee8f55dd
+2023-12-15 20:19:59,099 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-15 20:20:01,201 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-15 20:20:04,283 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-15 20:20:06,267 [main] [INFO ] rootLogger:48:CommandsCls.java - Actual Title is: OrangeHRM
+2023-12-15 20:20:06,271 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-15 20:20:24,799 [main] [ERROR] rootLogger:38:CommandsCls.java - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.72)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e676bbc581287f0410e388f85704a830, findElement {using=name, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57708}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57708/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e676bbc581287f0410e388f85704a830
+2023-12-15 20:32:16,163 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-15 20:32:18,262 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-15 20:32:21,348 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-15 20:32:22,691 [main] [INFO ] rootLogger:48:CommandsCls.java - Actual Title is: OrangeHRM
+2023-12-15 20:32:22,697 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-15 20:32:41,045 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-15 20:32:43,123 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-15 20:32:46,193 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-15 20:32:54,990 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //span[text()='Admin']/..
+2023-12-15 20:33:03,739 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[text()=' Add ']
+2023-12-15 20:33:08,824 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: (//label[text()='User Role']/../..//div)[2]//div[text()='-- Select --']
+2023-12-15 20:33:13,908 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //*[text()='ESS']
+2023-12-15 20:33:18,030 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  SateeshM in : By.xpath: //label[text()='Username']/../following-sibling::div//input
+2023-12-15 20:33:20,103 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  abc@123 in : By.xpath: (//input[@type='password'])[1]
+2023-12-15 20:33:22,205 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  abc@123 in : By.xpath: (//input[@type='password'])[2]
+2023-12-15 20:36:09,002 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-15 20:36:11,096 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-15 20:36:14,138 [main] [ERROR] rootLogger:24:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit1']"}
+  (Session info: chrome=120.0.6099.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [84039610068288688933838b5670d804, findElement {using=xpath, value=//button[@type='submit1']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58260}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58260/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 84039610068288688933838b5670d804
+2023-12-15 20:36:34,507 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-15 20:36:36,587 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-15 20:36:39,620 [main] [ERROR] rootLogger:24:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit1']"}
+  (Session info: chrome=120.0.6099.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2dd7f4ea4c9554ef4f6e357d0cb5b346, findElement {using=xpath, value=//button[@type='submit1']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58304}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58304/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2dd7f4ea4c9554ef4f6e357d0cb5b346
+2023-12-15 20:42:22,510 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-15 20:42:24,596 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-15 20:42:27,651 [main] [ERROR] rootLogger:24:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit1']"}
+  (Session info: chrome=120.0.6099.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b725f0f315f7e626b1a7f520b8552bff, findElement {using=xpath, value=//button[@type='submit1']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58346}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58346/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b725f0f315f7e626b1a7f520b8552bff
+2023-12-15 20:42:49,962 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-15 20:42:52,033 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-15 20:42:55,057 [main] [ERROR] rootLogger:24:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit1']"}
+  (Session info: chrome=120.0.6099.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b2a49876d0d4cbb57727bcdbe3f3fd84, findElement {using=xpath, value=//button[@type='submit1']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58370}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58370/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b2a49876d0d4cbb57727bcdbe3f3fd84
+2023-12-15 20:43:52,122 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-15 20:43:54,232 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-15 20:43:57,291 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-15 20:43:59,801 [main] [INFO ] rootLogger:48:CommandsCls.java - Actual Title is: OrangeHRM
+2023-12-15 20:43:59,804 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-15 20:44:15,355 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-15 20:44:17,430 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-15 20:44:20,499 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-15 20:44:28,557 [main] [ERROR] rootLogger:24:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin1']/.."}
+  (Session info: chrome=120.0.6099.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [615c1856035dc563ffa9d1ee65d30847, findElement {using=xpath, value=//span[text()='Admin1']/..}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58430}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58430/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 615c1856035dc563ffa9d1ee65d30847
+2023-12-16 10:22:01,434 [main] [ERROR] rootLogger:38:CommandsCls.java - Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+2023-12-16 10:22:04,115 [main] [ERROR] rootLogger:38:CommandsCls.java - Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+2023-12-16 10:23:22,116 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 10:23:24,226 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-16 10:23:27,315 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-16 10:23:28,334 [main] [INFO ] rootLogger:48:CommandsCls.java - Actual Title is: OrangeHRM
+2023-12-16 10:23:28,336 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-16 10:23:54,570 [main] [ERROR] rootLogger:38:CommandsCls.java - Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+2023-12-16 10:25:26,134 [main] [ERROR] rootLogger:38:CommandsCls.java - Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+2023-12-16 10:28:07,489 [main] [ERROR] rootLogger:38:CommandsCls.java - Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+2023-12-16 10:29:00,355 [main] [ERROR] rootLogger:38:CommandsCls.java - Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+2023-12-16 10:29:23,526 [main] [ERROR] rootLogger:38:CommandsCls.java - Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+2023-12-16 10:30:58,471 [main] [ERROR] rootLogger:38:CommandsCls.java - Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+2023-12-16 10:34:50,493 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 10:34:52,562 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-16 10:34:55,628 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-16 10:35:00,659 [main] [INFO ] rootLogger:78:CommandsCls.java - actualuivalue is  :Invalid credentials
+2023-12-16 10:35:00,663 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-16 10:35:59,857 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 10:36:01,917 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-16 10:36:04,941 [main] [ERROR] rootLogger:24:CommandsCls.java - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.72)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7daf6c8e020ca6cec0154a2a3ae82419, findElement {using=xpath, value=//button[@type='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64130}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64130/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7daf6c8e020ca6cec0154a2a3ae82419
+2023-12-16 10:41:47,771 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 10:41:49,864 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-16 10:41:52,879 [main] [ERROR] rootLogger:24:CommandsCls.java - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.72)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fff46c14abd17a7e3db7b4cec425b0f4, findElement {using=xpath, value=//button[@type='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64192/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fff46c14abd17a7e3db7b4cec425b0f4
+2023-12-16 10:45:09,746 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 10:45:11,825 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-16 10:45:14,887 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-16 10:45:16,160 [main] [INFO ] rootLogger:48:CommandsCls.java - Actual Title is: OrangeHRM
+2023-12-16 10:45:16,162 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-16 10:45:37,240 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 10:45:39,329 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-16 10:45:42,407 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-16 10:45:47,446 [main] [INFO ] rootLogger:78:CommandsCls.java - actualuivalue is  :Invalid credentials
+2023-12-16 10:45:47,446 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-16 10:47:58,378 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 10:48:00,461 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-16 10:48:03,556 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-16 10:48:08,598 [main] [INFO ] rootLogger:78:CommandsCls.java - actualuivalue is  :Invalid credentials
+2023-12-16 10:48:08,601 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-16 10:49:52,359 [main] [ERROR] rootLogger:38:CommandsCls.java - Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+2023-12-16 10:50:59,582 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 10:51:01,670 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-16 10:51:04,733 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-16 10:51:09,787 [main] [INFO ] rootLogger:78:CommandsCls.java - actualuivalue is  :Invalid credentials
+2023-12-16 10:51:09,789 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-16 10:55:40,767 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 10:55:42,843 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-16 10:55:45,894 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-16 10:55:50,936 [main] [INFO ] rootLogger:78:CommandsCls.java - actualuivalue is  :Invalid credentials
+2023-12-16 10:55:50,940 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-16 10:57:24,935 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 10:57:27,011 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-16 10:57:30,081 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-16 10:57:35,117 [main] [INFO ] rootLogger:78:CommandsCls.java - actualuivalue is  :Invalid credentials
+2023-12-16 10:57:35,119 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-16 10:58:34,441 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 10:58:36,544 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-16 10:58:39,612 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-16 10:58:44,654 [main] [INFO ] rootLogger:78:CommandsCls.java - actualuivalue is  :Invalid credentials
+2023-12-16 10:58:44,658 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-16 11:00:28,455 [main] [ERROR] rootLogger:38:CommandsCls.java - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.72)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1a9a43e916e43f99d62ca587f8b93c0d, findElement {using=name, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64656}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64656/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1a9a43e916e43f99d62ca587f8b93c0d
+2023-12-16 11:01:53,655 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 11:01:55,732 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-16 11:01:58,797 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-16 11:02:03,842 [main] [INFO ] rootLogger:78:CommandsCls.java - actualuivalue is  :Invalid credentials
+2023-12-16 11:02:03,845 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-16 11:03:47,431 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 11:03:49,523 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-16 11:03:52,590 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-16 11:03:57,658 [main] [INFO ] rootLogger:78:CommandsCls.java - actualuivalue is  :Invalid credentials
+2023-12-16 11:03:57,661 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-16 11:08:32,384 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 11:08:34,488 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-16 11:08:37,566 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-16 11:08:42,601 [main] [INFO ] rootLogger:78:CommandsCls.java - actualuivalue is  :Invalid credentials
+2023-12-16 11:08:42,604 [main] [INFO ] rootLogger:62:CommandsCls.java - Validation passed
+2023-12-16 11:24:40,537 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 11:24:42,633 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-16 11:24:45,697 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-16 11:24:50,743 [main] [INFO ] rootLogger:78:CommandsCls.java - actualuivalue is  :Invalid credentials
+2023-12-16 11:26:23,133 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 11:26:25,217 [main] [INFO ] rootLogger:34:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-16 11:26:28,292 [main] [INFO ] rootLogger:22:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-16 11:26:33,323 [main] [INFO ] rootLogger:78:CommandsCls.java - actualuivalue is  :Invalid credentials
+2023-12-16 11:50:15,973 [main] [INFO ] rootLogger:36:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 11:50:18,049 [main] [INFO ] rootLogger:36:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-16 11:50:21,082 [main] [ERROR] rootLogger:26:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit1']"}
+  (Session info: chrome=120.0.6099.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [140854300775745ab866a87f681927df, findElement {using=xpath, value=//button[@type='submit1']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49683}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49683/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 140854300775745ab866a87f681927df
+2023-12-16 11:50:55,120 [main] [INFO ] rootLogger:36:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 11:50:57,215 [main] [INFO ] rootLogger:36:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-16 11:51:10,247 [main] [ERROR] rootLogger:26:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit1']"}
+  (Session info: chrome=120.0.6099.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [13bf7a0eb3934ab490e317fff8e4a6a8, findElement {using=xpath, value=//button[@type='submit1']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49705}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49705/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 13bf7a0eb3934ab490e317fff8e4a6a8
+2023-12-16 11:51:37,734 [main] [INFO ] rootLogger:36:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 11:51:39,820 [main] [INFO ] rootLogger:36:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-16 11:52:17,632 [main] [ERROR] rootLogger:26:CommandsCls.java - Unable to find element with locator By.xpath: //button[@type='submit1']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: driver.version: RemoteWebDriver
+2023-12-16 12:07:37,339 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 12:07:39,427 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-16 12:07:52,496 [main] [ERROR] rootLogger:31:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit1']"}
+  (Session info: chrome=120.0.6099.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4eb2a38a997a52017acd928b51951763, findElement {using=xpath, value=//button[@type='submit1']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49839}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49839/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4eb2a38a997a52017acd928b51951763
+2023-12-16 19:42:26,814 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 19:42:28,889 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-16 19:42:31,991 [main] [INFO ] rootLogger:29:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-16 19:42:45,053 [main] [ERROR] rootLogger:31:CommandsCls.java - no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin1']/.."}
+  (Session info: chrome=120.0.6099.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3f14bfb6b868c255f751f4cb5b85335e, findElement {using=xpath, value=//span[text()='Admin1']/..}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51579}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51579/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3f14bfb6b868c255f751f4cb5b85335e
+2023-12-16 19:45:26,914 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 19:45:28,998 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-16 19:45:32,079 [main] [INFO ] rootLogger:29:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-16 19:45:33,541 [main] [INFO ] rootLogger:55:CommandsCls.java - Actual Title is: OrangeHRM
+2023-12-16 19:45:33,544 [main] [INFO ] rootLogger:70:CommandsCls.java - Validation passed
+2023-12-16 19:45:40,055 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-16 19:45:42,199 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-16 19:45:45,295 [main] [INFO ] rootLogger:29:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-16 19:45:50,345 [main] [INFO ] rootLogger:86:CommandsCls.java - actualuivalue is  :Invalid credentials
+2023-12-16 19:45:50,346 [main] [INFO ] rootLogger:70:CommandsCls.java - Validation passed
+2023-12-19 21:29:29,321 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-19 21:29:31,411 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-19 21:29:34,447 [main] [ERROR] rootLogger:31:CommandsCls.java - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.72)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [abdcc92cd8261223defd710d75ec3edf, findElement {using=xpath, value=//button[@type='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52968}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52968/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: abdcc92cd8261223defd710d75ec3edf

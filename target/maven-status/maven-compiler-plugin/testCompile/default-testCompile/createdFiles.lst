@@ -1,0 +1,11 @@
+com\OrangeHRM\Pages\LoginPageCls.class
+com\OrangeHRM\Utilities\DataProviderCls.class
+com\OrangeHRM\Commands\CommandsCls.class
+com\OrangeHRM\Utilities\ReadExcelCls.class
+com\OrangeHRM\TestCases\BaseCls.class
+com\OrangeHRM\Objects\ObjectsCls.class
+com\OrangeHRM\Pages\AddUserPageCls.class
+com\OrangeHRM\TestCases\OrangeHRMTestCases.class
+com\OrangeHRM\Utilities\ReadConfig.class
+com\OrangeHRM\Utilities\ExtentReportCls.class
+com\OrangeHRM\Utilities\CaptureScreenshotCls.class
