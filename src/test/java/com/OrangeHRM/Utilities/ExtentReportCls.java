@@ -25,6 +25,7 @@ public class ExtentReportCls {
 		LocalDateTime now = LocalDateTime.now();
 		String date = dtf.format(now).toString();
 	*/
+
 		
 		extent = new ExtentReports();
 		spark = new ExtentSparkReporter("./Reports/OrangeHRMReport.html");
