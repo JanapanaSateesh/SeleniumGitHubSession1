@@ -56,7 +56,8 @@ public class BaseCls {
 	public void tearDown(ITestResult result) {
 		//driver.close();
 		if(result.getStatus()==ITestResult.SUCCESS) {
-			System.out.println("Test case is  passed");
+			System.out.println("Test Case :"+result.getName()+" "+"is passed");
+			
 			
 		}
 		if(result.getStatus()==ITestResult.FAILURE) {

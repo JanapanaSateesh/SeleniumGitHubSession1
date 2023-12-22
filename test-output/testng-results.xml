@@ -1,98 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="3" total="4" passed="0" failed="1" skipped="0">
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-16T12:07:28 IST" name="Suite" finished-at="2023-12-16T12:07:52 IST" duration-ms="24159">
+  <suite started-at="2023-12-22T18:24:15 IST" name="Suite" finished-at="2023-12-22T18:25:00 IST" duration-ms="44826">
     <groups>
-      <group name="regression">
-        <method signature="OrangeHRMTestCases.addUserTC_003(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@2794eab6]" name="addUserTC_003" class="com.OrangeHRM.TestCases.OrangeHRMTestCases"/>
-      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="OrangeHRMTestCases.loginWithValidCredentialsTC_001()[pri:1, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@645aa696]" name="loginWithValidCredentialsTC_001" class="com.OrangeHRM.TestCases.OrangeHRMTestCases"/>
+        <method signature="OrangeHRMTestCases.loginWithInvalidCredentialsTC_002()[pri:2, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@645aa696]" name="loginWithInvalidCredentialsTC_002" class="com.OrangeHRM.TestCases.OrangeHRMTestCases"/>
+      </group> <!-- smoke -->
     </groups>
-    <test started-at="2023-12-16T12:07:28 IST" name="Test" finished-at="2023-12-16T12:07:52 IST" duration-ms="24159">
+    <test started-at="2023-12-22T18:24:15 IST" name="Test" finished-at="2023-12-22T18:25:00 IST" duration-ms="44826">
       <class name="com.OrangeHRM.TestCases.OrangeHRMTestCases">
-        <test-method is-config="true" signature="befSuite()[pri:0, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@2794eab6]" started-at="2023-12-16T12:07:28 IST" name="befSuite" finished-at="2023-12-16T12:07:28 IST" duration-ms="267" status="PASS">
+        <test-method is-config="true" signature="befSuite()[pri:0, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@645aa696]" started-at="2023-12-22T18:24:15 IST" name="befSuite" finished-at="2023-12-22T18:24:15 IST" duration-ms="237" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- befSuite -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@2794eab6]" started-at="2023-12-16T12:07:29 IST" name="setUp" finished-at="2023-12-16T12:07:35 IST" duration-ms="5624" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@645aa696]" started-at="2023-12-22T18:24:15 IST" name="setUp" finished-at="2023-12-22T18:24:21 IST" duration-ms="6439" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="addUserTC_003(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@2794eab6]" started-at="2023-12-16T12:07:35 IST" name="addUserTC_003" data-provider="testDataTC_003" finished-at="2023-12-16T12:07:52 IST" duration-ms="17242" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[SateeshM]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[abc@123]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[abc@123]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[null]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: null
-at org.testng.Assert.fail(Assert.java:110)
-at org.testng.Assert.fail(Assert.java:115)
-at com.OrangeHRM.Commands.CommandsCls.click(CommandsCls.java:32)
-at com.OrangeHRM.Pages.AddUserPageCls.addUser(AddUserPageCls.java:23)
-at com.OrangeHRM.TestCases.OrangeHRMTestCases.addUserTC_003(OrangeHRMTestCases.java:40)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:829)
-at org.testng.TestRunner.run(TestRunner.java:602)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
-at org.testng.SuiteRunner.run(SuiteRunner.java:330)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
-at org.testng.TestNG.runSuites(TestNG.java:1099)
-at org.testng.TestNG.run(TestNG.java:1067)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+        <test-method signature="loginWithValidCredentialsTC_001()[pri:1, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@645aa696]" started-at="2023-12-22T18:24:21 IST" name="loginWithValidCredentialsTC_001" finished-at="2023-12-22T18:24:30 IST" duration-ms="8916" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addUserTC_003 -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@2794eab6]" started-at="2023-12-16T12:07:52 IST" name="tearDown" finished-at="2023-12-16T12:07:52 IST" duration-ms="147" status="PASS">
+        </test-method> <!-- loginWithValidCredentialsTC_001 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@645aa696]" started-at="2023-12-22T18:24:30 IST" name="tearDown" finished-at="2023-12-22T18:24:30 IST" duration-ms="5" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=addUserTC_003 status=FAILURE method=OrangeHRMTestCases.addUserTC_003(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@2794eab6] output={null}]]]>
+                <![CDATA[[TestResult name=loginWithValidCredentialsTC_001 status=SUCCESS method=OrangeHRMTestCases.loginWithValidCredentialsTC_001()[pri:1, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@645aa696] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="aftSuite()[pri:0, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@2794eab6]" started-at="2023-12-16T12:07:52 IST" name="aftSuite" finished-at="2023-12-16T12:07:52 IST" duration-ms="270" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@645aa696]" started-at="2023-12-22T18:24:30 IST" name="setUp" finished-at="2023-12-22T18:24:47 IST" duration-ms="17108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginWithInvalidCredentialsTC_002()[pri:2, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@645aa696]" started-at="2023-12-22T18:24:47 IST" name="loginWithInvalidCredentialsTC_002" finished-at="2023-12-22T18:25:00 IST" duration-ms="12317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidCredentialsTC_002 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@645aa696]" started-at="2023-12-22T18:25:00 IST" name="tearDown" finished-at="2023-12-22T18:25:00 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginWithInvalidCredentialsTC_002 status=SUCCESS method=OrangeHRMTestCases.loginWithInvalidCredentialsTC_002()[pri:2, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@645aa696] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="aftSuite()[pri:0, instance:com.OrangeHRM.TestCases.OrangeHRMTestCases@645aa696]" started-at="2023-12-22T18:25:00 IST" name="aftSuite" finished-at="2023-12-22T18:25:00 IST" duration-ms="426" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftSuite -->

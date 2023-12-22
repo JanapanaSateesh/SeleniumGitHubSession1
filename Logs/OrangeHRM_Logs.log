@@ -375,3 +375,28 @@ Driver info: org.openqa.selenium.chrome.ChromeDriver
 Command: [abdcc92cd8261223defd710d75ec3edf, findElement {using=xpath, value=//button[@type='submit']}]
 Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.72, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\SAIKRI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52968}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52968/devtoo..., se:cdpVersion: 120.0.6099.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
 Session ID: abdcc92cd8261223defd710d75ec3edf
+2023-12-22 18:12:07,192 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-22 18:12:09,305 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-22 18:12:14,415 [main] [INFO ] rootLogger:29:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-22 18:12:19,461 [main] [INFO ] rootLogger:86:CommandsCls.java - actualuivalue is  :Invalid credentials
+2023-12-22 18:12:19,464 [main] [INFO ] rootLogger:70:CommandsCls.java - Validation passed
+2023-12-22 18:13:32,503 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-22 18:13:34,586 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-22 18:13:37,659 [main] [INFO ] rootLogger:29:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-22 18:13:42,704 [main] [INFO ] rootLogger:86:CommandsCls.java - actualuivalue is  :Invalid credentials
+2023-12-22 18:13:42,707 [main] [INFO ] rootLogger:70:CommandsCls.java - Validation passed
+2023-12-22 18:16:07,975 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-22 18:16:10,064 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-22 18:16:13,131 [main] [INFO ] rootLogger:29:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-22 18:16:18,164 [main] [INFO ] rootLogger:86:CommandsCls.java - actualuivalue is  :Invalid credentials
+2023-12-22 18:16:18,167 [main] [INFO ] rootLogger:70:CommandsCls.java - Validation passed
+2023-12-22 18:24:24,547 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-22 18:24:26,650 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  admin123 in : By.name: password
+2023-12-22 18:24:29,742 [main] [INFO ] rootLogger:29:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-22 18:24:30,816 [main] [INFO ] rootLogger:55:CommandsCls.java - Actual Title is: OrangeHRM
+2023-12-22 18:24:30,818 [main] [INFO ] rootLogger:70:CommandsCls.java - Validation passed
+2023-12-22 18:24:50,042 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  Admin in : By.name: username
+2023-12-22 18:24:52,143 [main] [INFO ] rootLogger:41:CommandsCls.java - Enter the value :  12345 in : By.name: password
+2023-12-22 18:24:55,223 [main] [INFO ] rootLogger:29:CommandsCls.java - clicked on :By.xpath: //button[@type='submit']
+2023-12-22 18:25:00,255 [main] [INFO ] rootLogger:86:CommandsCls.java - actualuivalue is  :Invalid credentials
+2023-12-22 18:25:00,255 [main] [INFO ] rootLogger:70:CommandsCls.java - Validation passed
